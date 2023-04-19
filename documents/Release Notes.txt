@@ -1,0 +1,12 @@
+Suitable Technologies Automation(Phase 1):
+  
+  * Implemented 145 test cases in test suite https://suitabletech.testrail.com/index.php?/suites/view/96&group_by=cases:section_id&group_order=asc&group_id=1775
+  * Improved framework to work more stable on Internet Explorer 11
+  * Added the ability to run test on Japanese site
+  * Added the ability to work with GMail APIs
+  * We can run test cases with whole test suite as well as sepecific test class
+  * Test cases can run in parallel with -n param
+  * Improved HTML execution result
+  * Test cases still need to stablize to run on Japanese site due to the differences in Web Element locator
+  * Test cases related to image upload, image checking, windows form cannot be run remotely
+  * There are 4 test cases (c11662,c11293,c11675,c11674) that need to setup google account before running

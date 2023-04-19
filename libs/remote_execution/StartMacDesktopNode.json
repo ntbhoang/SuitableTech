@@ -1,0 +1,31 @@
+{
+  "capabilities": [
+    {
+      "browserName": "firefox",
+	  "version": "44",
+      "platformName": "MAC",
+      "maxInstances": 10
+    },
+    {
+      "browserName": "chrome",
+	  "version": "49",
+      "maxInstances": 10,
+      "platformName": "MAC",
+      "webdriver.chrome.driver": "chromedriver_mac32"
+    },
+    {
+      "browserName": "safari",
+	  "version": "9",
+      "maxInstances": 10,
+      "platformName": "MAC"
+    }
+  ],
+  "configuration": {
+    "cleanUpCycle": 2000,
+    "timeout": 30000,
+    "register": true,
+	"hubHost": "192.168.171.127",
+    "hubPort": 8888,	
+    "maxSession": 50
+  }
+}

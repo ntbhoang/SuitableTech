@@ -1,0 +1,15 @@
+{
+	"browser" : "IE",
+	"browserVerion" : "11",
+	"platform" : "WINDOWS",
+	"platformVersion" : "7",
+	"elementWaitTimeout" : 45,
+	"pageWaitTimeout" : 90,
+	"emailWaitTimeout" : 90,
+	"runLocally" : true,
+	"remoteSetting" : {
+		"remote_type" : "",
+		"hub_url" : ""		
+	},
+	"mobileEmulation" : {}
+}

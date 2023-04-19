@@ -1,0 +1,480 @@
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2018-02-28 10:38+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.0.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Basepath: ../../../common\n"
+"X-Poedit-SearchPath-0: constant.py\n"
+
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid "LBL_MANAGE_YOUR_BEAMS"
+msgstr "Gestionnaire de Beam"
+
+msgid "LBL_DOWNLOAD_INSTALLER"
+msgstr "Télécharger le programme d'installation"
+
+msgid "LBL_DOCUMENTATION"
+msgstr "Documentation"
+
+msgid "LBL_GET_HELP"
+msgstr "Obtenir de l'aide"
+
+msgid "LBL_BEAM_HELP"
+msgstr "Centre d'aide Beam"
+
+msgid "LBL_ALL_MEMBERS"
+msgstr "Tous les membres"
+
+msgid "BEAM_SOFWARE_NAME"
+msgstr "Opening beam-stable-2.15.10-win32.exe"
+
+msgid "CHK_NOTIFY_REQUEST_ACCESS"
+msgstr "Avertir les administrateurs si quelqu'un demande un accès à ce groupe"
+
+msgid "CHK_NOTIFY_ADMIN_IF_BEAM_LEFT_OFF_CHARGER"
+msgstr "Avertir les administrateurs si un appareil Beam n'est pas replacé sur sa borne de recharge"
+
+msgid "CHK_NOTIFY_PILOT_IF_BEAM_LEFT_OFF_CHARGER"
+msgstr "Avertir le dernier pilote si un appareil Beam n'est pas retourné à sa borne de recharge"
+
+msgid "CHK_NOTIFY_BECOME_AN_ADMIN"
+msgstr "Je deviens un administrateur"
+
+msgid "CHK_NOTIFY_ADDED_OR_REMOVED_FROM_DEVICE_GROUP"
+msgstr "Je suis ajouté(e) au ou supprimé(e) du groupe d'un appareil"
+
+msgid "CHK_NOTIFY_DEVICE_MEMBERS_GROUP_ARE_ADDED_REMOVED"
+msgstr "Des membres sont ajoutés au ou supprimés du groupe d'appareils"
+
+msgid "CHK_NOTIFY_DEVICE_GROUPS_ARE_ADDED_REMOVED"
+msgstr "Des groupes d'appareils sont ajoutés ou supprimés"
+
+msgid "CHK_NOTIFY_DEVICE_GROUPS_SETTINGS_ARE_CHANGED"
+msgstr "Les paramètres du groupe d'appareils ont été changés"
+
+msgid "CHK_NOTIFY_I_CAN_CHANGE_DEVICE_SETTINGS_OR_ANSWER_CALLS"
+msgstr "Je peux changer les paramètres de l'appareil ou répondre à des appels"
+
+msgid "LBL_DEVICE_GROUPS_PROPERTY"
+msgstr "Groupes d'appareils"
+
+msgid "LBL_LOCATION_NAME"
+msgstr "Nom"
+
+msgid "LBL_LOCATION_PROPERTY"
+msgstr "Emplacement"
+
+msgid "LBL_LABEL_PROPERTY"
+msgstr "Libellés"
+
+msgid "LBL_GROUP_PROPERTY"
+msgstr "Groupe"
+
+msgid "LBL_TIMEZONE_PROPERTY"
+msgstr "Fuseau horaire"
+
+msgid "LBL_ADMIN_USERS_SECTION_USERS"
+msgstr "Utilisateurs"
+
+msgid "LBL_ACCOUNT_SETTINGS_PAGE_HEADER"
+msgstr "Paramètres du compte"
+
+msgid "LBL_ACCOUNT_NOTIFICATIONS_PAGE_HEADER"
+msgstr "Notifications"
+
+msgid "LBL_ORG_SETTINGS_PAGE_HEADER"
+msgstr "Paramètres de l'organisation"
+
+msgid "LBL_APPROVED_REQUEST_ACCESS_BEAM_HEADER"
+msgstr "Approuvé"
+
+msgid "LBL_REJECTED_REQUEST_ACCESS_BEAM_HEADER"
+msgstr "Rejeté"
+
+msgid "LBL_ERROR_REQUEST_ACCESS_BEAM_HEADER"
+msgstr "Erreur"
+
+msgid "LBL_BEAMS_ACCESS_TIMES_TEMPORARY_USERS"
+msgstr "Utilisateurs temporaires"
+
+msgid "LBL_BEAMS_DEVICES_PAGE_HEADER"
+msgstr "Appareils du groupe"
+
+msgid "LBL_BEAMS_MEMBERS_USERS"
+msgstr "Utilisateurs"
+
+msgid "LBL_BEAMS_MEMBERS_USER_GROUPS"
+msgstr "Groupes d'utilisateurs"
+
+msgid "LBL_BEAMS_MEMBERS_REMOVE_USER"
+msgstr "Supprimer"
+
+msgid "LBL_PLAY_VIDEO_CONTINUE"
+msgstr "Continuer"
+
+msgid "LBL_CONFIRM_NEW_AUTH_METHOD"
+msgstr "Confirmer le nouveau moyen d'authentification"
+
+msgid "LBL_DISCONNECT_SUCCESSFUL"
+msgstr "Déconnexion réussie"
+
+msgid "LBL_YES"
+msgstr "Oui"
+
+msgid "LBL_NO"
+msgstr "Non"
+
+msgid "LBL_DELETE"
+msgstr "Supprimer"
+
+msgid "INFO_MSG_CREATE_DEVICE_GROUP_SUCCESSFUL"
+msgstr "Le groupe d'appareils a bien été créé."
+
+msgid "INFO_MSG_SAVE_DEVICE_GROUP_SETTING_SUCCESSFUL"
+msgstr "Les paramètres du groupe d'appareils ont bien été enregistrés."
+
+msgid "INFO_MSG_EDIT_USER_SUCCESS"
+msgstr "L'utilisateur a bien été enregistré."
+
+msgid "INFO_MSG_SET_DEVICE_GROUP_SUCCESSFUL"
+msgstr "L'appareil a bien été enregistré."
+
+msgid "INFO_MSG_DELETE_USER_GROUP_SUCCESSFUL"
+msgstr "Le groupe a bien été supprimé."
+
+msgid "INFO_MSG_CREATE_USER_GROUP_SUCCESSFUL"
+msgstr "Groupe d'utilisateurs créé."
+
+msgid "INFO_MSG_NEW_API_NOTICE"
+msgstr "Voici votre nouvelle clé API : (.*). Veuillez copier cette clé \\(sans les guillemets qui l'entourent\\) et la conserver dans un endroit sûr. Une fois que vous aurez quitté cette page, vous n'aurez plus accès à la partie secrète de cette clé. Pour en savoir plus sur l'utilisation des clés API, veuillez consulter la page Documentation relative aux API Web"
+
+msgid "WARN_MSG_CHANGE_DEVICE_GROUP_NAME"
+msgstr "Avertissement ! Si vous déplacez cet appareil vers un autre groupe, les membres de ce groupe ne pourront plus y accéder."
+
+msgid "WARN_MSG_REMOVE_USER_GROUP"
+msgstr "Voulez-vous vraiment supprimer ce groupe d'utilisateurs du groupe d'appareils « {} » ?"
+
+msgid "DELETE_USER_FROM_DEVICE_GROUP"
+msgstr "Voulez-vous vraiment supprimer ce membre du groupe d'appareils « {} » ?"
+
+msgid "INFO_MSG_INVITE_USER_TO_SIMPL_BEAM_SUCCESSFUL"
+msgstr "{} a été ajouté à {}."
+
+msgid "INFO_INVITATION_MAIL_SENT_SUCCESSFUL"
+msgstr "L'invitation destinée à {} a bien été envoyée."
+
+msgid "LBL_DEVICE_GROUPS"
+msgstr "Groupes d'appareils"
+
+msgid "LBL_USER_GROUPS"
+msgstr "Groupes d'utilisateurs"
+
+msgid "LBL_ADMINISTERS_GROUPS"
+msgstr "Administre des groupes"
+
+msgid "LBL_ADMINISTRATOR"
+msgstr "Administrateur"
+
+msgid "LBL_MENU_ADMINISTRATOR_ONLY"
+msgstr "Administrateurs uniquement"
+
+msgid "LBL_MENU_USER_GROUPS"
+msgstr "Groupes d'utilisateurs"
+
+msgid "LBL_MENU_TEMPORARY_USERS"
+msgstr "Utilisateurs temporaires"
+
+msgid "TXTF_CONFIRM_ASSOCIATION_WARNING_MESSAGE"
+msgstr ""
+"AVERTISSEMENT: Un seul moyen d'authentification est autorisé par compte. Votre compte est actuellement authentifié à l'aide d'un nom d'utilisateur Suitable Technologies et d'un mot de passe. Si vous poursuivez, à l'avenir, votre compte sera authentifié via Google.\n"
+"Une fois que votre moyen d'authentification sera Google, vous ne pourrez plus vous connecter au site Internet ou au client Beam en utilisant votre nom d'utilisateur Suitable Technologies et votre mot de passe. Vous devrez maintenant cliquer sur « Se connecter avec Google ». Vous devez également avoir une version actualisée du client.\n"
+"Souhaitez-vous réellement changer votre moyen d'authentification et utiliser Google ?\n"
+"Oui Non"
+
+msgid "LBL_IMAGE_CROP_TRACKER"
+msgstr "Sélectionnez la zone que vous souhaitez utiliser"
+
+msgid "LBL_ACCESS_REQUEST_RECORD_MESSAGE"
+msgstr "demande à rejoindre le groupe"
+
+msgid "LBL_APPROVED_NOTIFICATION_MESSAGE"
+msgstr "La demande d'accès a été approuvée."
+
+msgid "LBL_REJECTED_NOTIFICATION_MESSAGE"
+msgstr "La demande d'accès a été refusée."
+
+msgid "LBL_DATETIME_MERIDIAN_AM"
+msgstr "AM"
+
+msgid "LBL_DATETIME_MERIDIAN_PM"
+msgstr "PM"
+
+msgid "LBL_DEV_ATTR_SETTINGS"
+msgstr "Paramètres"
+
+msgid "LBL_DEV_ATTR_INFORMATION"
+msgstr "Informations"
+
+msgid "LBL_DEV_ATTR_SECTION_SYSTEM"
+msgstr "Système"
+
+msgid "LBL_DEV_ATTR_SYSTEM_SERIAL_NUMBER"
+msgstr "Numéro de série"
+
+msgid "LBL_DEV_ATTR_SYSTEM_UID"
+msgstr "ID utilisateur"
+
+msgid "LBL_DEV_ATTR_SYSTEM_SOFTWARE_VERSION"
+msgstr "Version logicielle"
+
+msgid "LBL_DEV_ATTR_SECTION_NETWORK"
+msgstr "Réseau"
+
+msgid "LBL_DEV_ATTR_NETWORK_CURRENT_WIFI_NETWORK"
+msgstr "Réseau Wi-Fi actuel"
+
+msgid "LBL_DEV_ATTR_NETWORK_SSID"
+msgstr "SSID"
+
+msgid "LBL_DEV_ATTR_NETWORK_FREQUENCY"
+msgstr "Fréquence"
+
+msgid "LBL_DEV_ATTR_NETWORK_INTERFACE_TYPE"
+msgstr "Type"
+
+msgid "LBL_DEV_ATTR_NETWORK_MAC"
+msgstr "MAC"
+
+msgid "LBL_DEV_ATTR_NETWORK_IP_ADDR"
+msgstr "Adresse IP"
+
+msgid "LBL_DEV_ATTR_NETWORK_RELAY_SERVER"
+msgstr "Serveur de relais"
+
+msgid "CHK_ALL_AUTHENTICATION_METHODS"
+msgstr "Tous les moyens d'authentification"
+
+msgid "LBL_WELCOME_TO_BEAM_EMAIL_TITLE"
+msgstr "Bienvenue sur Beam"
+
+msgid "LBL_BEAM_ALL_AUTHENTICATION_METHODS"
+msgstr "Tous les moyens d'authentification"
+
+msgid "LBL_IMPORT_CONTACT_ERROR_MESSAGE"
+msgstr "Une erreur s'est produite lors de l'importation de vos contacts."
+
+msgid "LBL_RESERVATION_PASSWORD"
+msgstr "Mot de passe"
+
+msgid "LBL_RESERVATION_SERVER_ADDRESS"
+msgstr "Adresse du serveur"
+
+msgid "LBL_RESERVATION_USER_NAME"
+msgstr "Nom d'utilisateur"
+
+msgid "LBL_RESERVATION_TAB"
+msgstr "Réservations"
+
+msgid "LBL_DELETE_ERROR_MESSAGE"
+msgstr "Une erreur est survenue lors de votre requête. Merci de réessayer ultérieurement."
+
+msgid "INFO_MSG_CREATE_RESERVATION_SUCCESSFUL"
+msgstr "La réservation a été créée."
+
+msgid "INFO_MSG_DELETE_RESERVATION_SUCCESSFUL"
+msgstr "La réservation a été supprimée."
+
+msgid "INFO_MSG_EDIT_RESERVATION_SUCCESSFUL"
+msgstr "La réservation a été modifiée."
+
+msgid "INFO_MSG_REJECT_RESERVATION_SUCCESSFUL"
+msgstr "La réservation a été rejetée."
+
+msgid "INFO_MOBILE_MSG_REJECT_RESERVATION_SUCCESSFUL"
+msgstr "La demande de réservation a été rejetée"
+
+msgid "LBL_RESERVATION_REJECTED_STATUS"
+msgstr "Rejetée"
+
+msgid "LBL_RESERVATION_CONFIRMED_STATUS"
+msgstr "Confirmé"
+
+msgid "LBL_RESERVATION_REQUESTED_STATUS"
+msgstr "Demandée"
+
+msgid "LBL_LINKING_CODE_ERROR"
+msgstr "Le code que vous avez saisi n'est pas valide. Veuillez saisir le code à 6 chiffres affiché sur l'écran de votre appareil."
+
+msgid "LBL_ALL_USERS_GROUP"
+msgstr "Tous les utilisateurs"
+
+msgid "LBL_ALLOWED"
+msgstr "Autorisé"
+
+msgid "LBL_NOT_ALLOWED"
+msgstr "Non autorisé"
+
+msgid "LBL_BY_REQUEST"
+msgstr "Par demande"
+
+msgid "LBL_BY_ADMINISTRATORS_ONLY"
+msgstr "Par administrateurs uniquement"
+
+msgid "WARN_MSG_REMOVE_DEVICES_GROUP"
+msgstr "Voulez-vous vraiment supprimer ce contenu ? Il est utilisé à 1 endroit."
+
+msgid "STATE_IN_A_CALL"
+msgstr "Participe à un appel"
+
+msgid "STATE_MISSED_CALLS"
+msgstr "Appels manqués"
+
+msgid "STATE_OFFLINE"
+msgstr "Déconnecté"
+
+msgid "STATE_CONFIGURING"
+msgstr "En cours de configuration"
+
+msgid "STATE_UPGRADING"
+msgstr "En cours de mise à jour"
+
+msgid "LBL_NONE_PROPERTY"
+msgstr "Aucun"
+
+msgid "INFO_MSG_DEVICE_GROUP_EXISTED"
+msgstr "Il existe déjà un groupe d'appareils de ce nom."
+
+msgid "INFO_MSG_USER_GROUP_EXISTED"
+msgstr "Il existe déjà un groupe d'utilisateurs de ce nom."
+
+msgid "INFO_MSG_REMOVE_USER_FROM_ORG_SUCCESSFUL"
+msgstr "L'utilisateur a bien été supprimé."
+
+msgid "INFO_MSG_INVITE_INVALID_EMAIL"
+msgstr "Saisissez une adresse email valable."
+
+msgid "INFO_MOBILE_MSG_CREATE_API"
+msgstr ""
+
+msgid "LBL_100_ITEMS"
+msgstr "100 éléments"
+
+msgid "LBL_10_ITEMS"
+msgstr "10 éléments"
+
+msgid "LBL_SAML_USERS_GROUP"
+msgstr "Utilisateurs SAML"
+
+msgid "LBL_MENU_ADD_ADD_ORGANIZATION_USERS"
+msgstr "Ajouter tous les utilisateurs de l'organisation"
+
+msgid "LBL_MENU_REMOVE_ALL_USERS"
+msgstr "Supprimer tous les utilisateurs"
+
+msgid "LBL_DASHBOARD_TEXT"
+msgstr "Tableau de bord de"
+
+msgid "SECT_WELCOME_TO_BEAM"
+msgstr ""
+"L'équipe de Beam vous souhaite la bienvenue !\n"
+"Votre compte Beam a bien été créé. Consultez maintenant tous les raccourcis sur la droite pour commencer votre expérience !"
+
+msgid "SECT_DOWNLOAD_AND_INSTALL"
+msgstr ""
+"Télécharger et installer l'application Beam\n"
+"Cette étape est obligatoire pour utiliser un appareil Beam. Une fois que vous aurez installé et ouvert cette application, vous verrez la liste des appareils Beam que vous avez été invité à utiliser."
+
+msgid "SECT_LINK_A_NEW_BEAM"
+msgstr ""
+"Associer un nouvel appareil Beam (que vous possédez) à votre réseau\n"
+"Ou vous pouvez toujours utiliser le lien Ajouter un nouveau Beam ci-dessous."
+
+msgid "LBL_SUCCESS_MESSAGE"
+msgstr "Réinitialisation des infobulles ignorées."
+
+msgid "INFO_MSG_REQUEST_RESERVATION_SUCCESSFUL"
+msgstr "Votre demande a été envoyée."
+
+msgid "LST_MILESTONES"
+msgstr "Invité,Connecté,Accord,Connecté,Appelé"
+
+msgid "CHK_NOTIFY_I_RESERVE_BEAMS"
+msgstr "Je réserve des Beams."
+
+msgid "LBL_NAME_ON_CARD"
+msgstr "Nom sur la carte"
+
+msgid "LBL_SYSTEM"
+msgstr "Système"
+
+msgid "LBL_SERIAL_NUMBER"
+msgstr "Numéro de série"
+
+msgid "LBL_UID"
+msgstr "ID utilisateur"
+
+msgid "LBL_SOFTWARE_VERSION"
+msgstr "Version logicielle"
+
+msgid "LBL_LINKED_BY"
+msgstr "Associé par"
+
+msgid "LBL_LINKED_ON"
+msgstr "Associé le"
+
+msgid "LBL_NETWORK"
+msgstr "Réseau"
+
+msgid "LBL_FREQUENCY"
+msgstr "Fréquence"
+
+msgid "LBL_TYPE"
+msgstr "Type"
+
+msgid "LBL_IP_ADDRESS"
+msgstr "Adresse IP"
+
+msgid "LBL_BEAM_OFFLINE_STATUS"
+msgstr "Déconnecté"
+
+msgid "LBL_BEAM_AVAILABLE_STATUS"
+msgstr "Disponible"
+
+msgid "LBL_LAST_USED"
+msgstr "Dernière utilisation"
+
+msgid "LBL_STATUS"
+msgstr "Statut"
+
+msgid "LBL_MENU_GUEST_ONLY"
+msgstr "Invités uniquement"
+
+msgid "LBL_DISPLAY_URL_REQUEST"
+msgstr "Afficher une invitation de connexion URL"
+
+msgid "WARN_MSG_USER_DOES_NOT_HAVE_ACCESS_DEVICE"
+msgstr "Cet utilisateur n'a pas accès à l'appareil demandé. Un administrateur devra ajouter l'utilisateur au groupe d'appareils ou à un groupe d'utilisateurs ayant accès à l'appareil pour qu'il puisse effectuer cette réservation."
+
+msgid "CONTENT_OF_TOOLTIP"
+msgstr ""
+"{}\n"
+"{}\n"
+"Pilote: {}\n"
+"Démarrage: {}\n"
+"Fin: {}\n"
+"Durée: {}"

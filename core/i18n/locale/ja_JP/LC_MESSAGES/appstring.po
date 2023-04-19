@@ -1,0 +1,480 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja_JP\n"
+"X-Generator: Poedit 2.0.4\n"
+
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid "LBL_MANAGE_YOUR_BEAMS"
+msgstr "Beamマネージャー"
+
+msgid "LBL_DOWNLOAD_INSTALLER"
+msgstr "インストーラーのダウンロード"
+
+msgid "LBL_DOCUMENTATION"
+msgstr "マニュアル"
+
+msgid "LBL_GET_HELP"
+msgstr "サポートの利用"
+
+msgid "LBL_BEAM_HELP"
+msgstr "Beamヘルプセンター"
+
+msgid "LBL_ALL_MEMBERS"
+msgstr "すべてのメンバー"
+
+msgid "BEAM_SOFWARE_NAME"
+msgstr "Opening beam-stable-2.15.10-win32.exe"
+
+msgid "CHK_NOTIFY_REQUEST_ACCESS"
+msgstr "ユーザーがこのグループへのアクセスをリクエストした場合、管理者に通知"
+
+msgid "CHK_NOTIFY_ADMIN_IF_BEAM_LEFT_OFF_CHARGER"
+msgstr "Beamと充電ケーブルの接続が解除されたら管理者に通知"
+
+msgid "CHK_NOTIFY_PILOT_IF_BEAM_LEFT_OFF_CHARGER"
+msgstr "Beamと充電ケーブルの接続が解除されたら最後のパイロットに通知"
+
+msgid "CHK_NOTIFY_BECOME_AN_ADMIN"
+msgstr "自分が管理者になったとき"
+
+msgid "CHK_NOTIFY_ADDED_OR_REMOVED_FROM_DEVICE_GROUP"
+msgstr "自分がデバイスグループに追加、またはデバイスグループから削除されたとき"
+
+msgid "CHK_NOTIFY_DEVICE_MEMBERS_GROUP_ARE_ADDED_REMOVED"
+msgstr "デバイスグループのメンバーが追加または削除されたとき"
+
+msgid "CHK_NOTIFY_DEVICE_GROUPS_ARE_ADDED_REMOVED"
+msgstr "デバイスグループが追加または削除されたとき"
+
+msgid "CHK_NOTIFY_DEVICE_GROUPS_SETTINGS_ARE_CHANGED"
+msgstr "デバイスグループの設定が変更されたとき"
+
+msgid "CHK_NOTIFY_I_CAN_CHANGE_DEVICE_SETTINGS_OR_ANSWER_CALLS"
+msgstr "自分がデバイスの設定を変更できる、または通話に応答できるとき"
+
+msgid "LBL_DEVICE_GROUPS_PROPERTY"
+msgstr "デバイスグループ"
+
+msgid "LBL_LOCATION_NAME"
+msgstr "名前"
+
+msgid "LBL_LOCATION_PROPERTY"
+msgstr "場所"
+
+msgid "LBL_LABEL_PROPERTY"
+msgstr "ラベル"
+
+msgid "LBL_GROUP_PROPERTY"
+msgstr "グループ"
+
+msgid "LBL_TIMEZONE_PROPERTY"
+msgstr "タイムゾーン"
+
+msgid "LBL_ADMIN_USERS_SECTION_USERS"
+msgstr "ユーザー"
+
+msgid "LBL_ACCOUNT_SETTINGS_PAGE_HEADER"
+msgstr "アカウント設定"
+
+msgid "LBL_ACCOUNT_NOTIFICATIONS_PAGE_HEADER"
+msgstr "通知"
+
+msgid "LBL_ORG_SETTINGS_PAGE_HEADER"
+msgstr "組織の設定"
+
+msgid "LBL_REJECTED_REQUEST_ACCESS_BEAM_HEADER"
+msgstr "拒否"
+
+msgid "LBL_ERROR_REQUEST_ACCESS_BEAM_HEADER"
+msgstr "エラー"
+
+msgid "LBL_APPROVED_REQUEST_ACCESS_BEAM_HEADER"
+msgstr "承認"
+
+msgid "LBL_BEAMS_ACCESS_TIMES_TEMPORARY_USERS"
+msgstr "一時ユーザー"
+
+msgid "LBL_BEAMS_DEVICES_PAGE_HEADER"
+msgstr "のデバイス"
+
+msgid "LBL_BEAMS_MEMBERS_USERS"
+msgstr "ユーザー"
+
+msgid "LBL_BEAMS_MEMBERS_USER_GROUPS"
+msgstr "ユーザーグループ"
+
+msgid "LBL_BEAMS_MEMBERS_REMOVE_USER"
+msgstr "削除"
+
+msgid "LBL_PLAY_VIDEO_CONTINUE"
+msgstr "続行"
+
+msgid "LBL_CONFIRM_NEW_AUTH_METHOD"
+msgstr "新しい認証方法を確定"
+
+msgid "LBL_DISCONNECT_SUCCESSFUL"
+msgstr "接続解除完了"
+
+msgid "LBL_YES"
+msgstr "はい"
+
+msgid "LBL_NO"
+msgstr "いいえ"
+
+msgid "LBL_DELETE"
+msgstr "削除"
+
+msgid "INFO_MSG_CREATE_DEVICE_GROUP_SUCCESSFUL"
+msgstr "デバイスグループが正常に作成されました。"
+
+msgid "INFO_MSG_SAVE_DEVICE_GROUP_SETTING_SUCCESSFUL"
+msgstr "デバイスグループ設定が正常に保存されました。"
+
+msgid "INFO_MSG_EDIT_USER_SUCCESS"
+msgstr "ユーザーが正常に保存されました。"
+
+msgid "INFO_MSG_SET_DEVICE_GROUP_SUCCESSFUL"
+msgstr "デバイスが正常に保存されました。"
+
+msgid "INFO_MSG_DELETE_USER_GROUP_SUCCESSFUL"
+msgstr "グループが正常に削除されました。"
+
+msgid "INFO_MSG_CREATE_USER_GROUP_SUCCESSFUL"
+msgstr "ユーザーグループは正常に作成されました。"
+
+msgid "INFO_MSG_NEW_API_NOTICE"
+msgstr "新しいAPIキーは(.*)です。このキーをコピーして（かっこは除く）、安全な場所に保管してください。このページから移動すると、秘密キーにはアクセスできなくなります。APIキーの使用方法について詳しくは、「Web APIドキュメント」ページをご覧ください。"
+
+msgid "WARN_MSG_CHANGE_DEVICE_GROUP_NAME"
+msgstr "警告！このデバイスを別のグループに移動すると、現在のグループのメンバーはこのデバイスにアクセスできなくなります。"
+
+msgid "WARN_MSG_REMOVE_USER_GROUP"
+msgstr "このユーザーグループをデバイスグループ「{}」から削除しますか？"
+
+msgid "DELETE_USER_FROM_DEVICE_GROUP"
+msgstr "このメンバーをデバイスグループ「{}」から削除しますか？"
+
+msgid "INFO_MSG_INVITE_USER_TO_SIMPL_BEAM_SUCCESSFUL"
+msgstr "{}が{}に追加されました。"
+
+msgid "INFO_INVITATION_MAIL_SENT_SUCCESSFUL"
+msgstr "{}への招待が正常に送信されました。"
+
+msgid "LBL_DEVICE_GROUPS"
+msgstr "デバイスグループ"
+
+msgid "LBL_USER_GROUPS"
+msgstr "ユーザーグループ"
+
+msgid "LBL_ADMINISTERS_GROUPS"
+msgstr "管理者グループ"
+
+msgid "LBL_ADMINISTRATOR"
+msgstr "管理者"
+
+msgid "LBL_MENU_ADMINISTRATOR_ONLY"
+msgstr "管理者のみ"
+
+msgid "LBL_MENU_USER_GROUPS"
+msgstr "ユーザーグループ"
+
+msgid "LBL_MENU_TEMPORARY_USERS"
+msgstr "一時ユーザー"
+
+msgid "TXTF_CONFIRM_ASSOCIATION_WARNING_MESSAGE"
+msgstr ""
+"警告: 利用可能な認証方法は1つのアカウントにつき1つのみです。お客様のアカウントは現在Suitable Technologiesのユーザー名とパスワードで認証されています。続行すると、お客様のアカウントはGoogleにより認証されます。\n"
+"認証方法をGoogleに変更すると、当社のWebサイトまたはBeamクライアントにログインする際にSuitable Technologiesのユーザー名とパスワードが使用できなくなります。今後ログインするときは、［Googleでサインイン］をクリックする必要があります。また、最新バージョンのクライアントが必要になります。\n"
+"認証方法をGoogleに変更しますか？\n"
+"はい いいえ"
+
+msgid "LBL_IMAGE_CROP_TRACKER"
+msgstr "使用する領域を選択"
+
+msgid "LBL_ACCESS_REQUEST_RECORD_MESSAGE"
+msgstr "追加をリクエストしています。"
+
+msgid "LBL_APPROVED_NOTIFICATION_MESSAGE"
+msgstr "アクセスリクエストが承認されました。"
+
+msgid "LBL_REJECTED_NOTIFICATION_MESSAGE"
+msgstr "アクセスリクエストが拒否されました。"
+
+msgid "LBL_DATETIME_MERIDIAN_AM"
+msgstr "午前"
+
+msgid "LBL_DATETIME_MERIDIAN_PM"
+msgstr "午後"
+
+msgid "LBL_DEV_ATTR_SETTINGS"
+msgstr "設定"
+
+msgid "LBL_DEV_ATTR_INFORMATION"
+msgstr "情報"
+
+msgid "LBL_DEV_ATTR_SECTION_SYSTEM"
+msgstr "システム"
+
+msgid "LBL_DEV_ATTR_SYSTEM_SERIAL_NUMBER"
+msgstr "シリアル番号"
+
+msgid "LBL_DEV_ATTR_SYSTEM_UID"
+msgstr "UID"
+
+msgid "LBL_DEV_ATTR_SYSTEM_SOFTWARE_VERSION"
+msgstr "ソフトウェアバージョン"
+
+msgid "LBL_DEV_ATTR_SECTION_NETWORK"
+msgstr "ネットワーク"
+
+msgid "LBL_DEV_ATTR_NETWORK_CURRENT_WIFI_NETWORK"
+msgstr "現在接続中のWi-Fiネットワーク"
+
+msgid "LBL_DEV_ATTR_NETWORK_SSID"
+msgstr "SSID"
+
+msgid "LBL_DEV_ATTR_NETWORK_FREQUENCY"
+msgstr "周波数"
+
+msgid "LBL_DEV_ATTR_NETWORK_INTERFACE_TYPE"
+msgstr "タイプ"
+
+msgid "LBL_DEV_ATTR_NETWORK_MAC"
+msgstr "MAC"
+
+msgid "LBL_DEV_ATTR_NETWORK_IP_ADDR"
+msgstr "IPアドレス"
+
+msgid "LBL_DEV_ATTR_NETWORK_RELAY_SERVER"
+msgstr "リレーサーバー"
+
+msgid "CHK_ALL_AUTHENTICATION_METHODS"
+msgstr "すべての認証方法"
+
+msgid "LBL_WELCOME_TO_BEAM_EMAIL_TITLE"
+msgstr "のBeamにようこそ"
+
+msgid "LBL_WELCOME_TEMPORARY_USER_EMAIL_TITLE"
+msgstr "You've been invited to Beam into"
+
+msgid "LBL_BEAM_ALL_AUTHENTICATION_METHODS"
+msgstr "すべての認証方法"
+
+msgid "LBL_IMPORT_CONTACT_ERROR_MESSAGE"
+msgstr "連絡先のインポートでエラーが発生しました。"
+
+msgid "LBL_RESERVATION_PASSWORD"
+msgstr "パスワード："
+
+msgid "LBL_RESERVATION_SERVER_ADDRESS"
+msgstr "サーバーアドレス："
+
+msgid "LBL_RESERVATION_USER_NAME"
+msgstr "ユーザー名："
+
+msgid "LBL_RESERVATION_TAB"
+msgstr "予約"
+
+msgid "LBL_DELETE_ERROR_MESSAGE"
+msgstr "リクエストでエラーが発生しました。後でもう一度試してください。"
+
+msgid "INFO_MSG_CREATE_RESERVATION_SUCCESSFUL"
+msgstr "予約が作成されました。"
+
+msgid "INFO_MSG_DELETE_RESERVATION_SUCCESSFUL"
+msgstr "予約が削除されました。"
+
+msgid "INFO_MSG_EDIT_RESERVATION_SUCCESSFUL"
+msgstr "予約が変更されました。"
+
+msgid "INFO_MSG_REJECT_RESERVATION_SUCCESSFUL"
+msgstr "予約が拒否されました。"
+
+msgid "INFO_MOBILE_MSG_REJECT_RESERVATION_SUCCESSFUL"
+msgstr "予約リクエストが拒否されました"
+
+msgid "LBL_RESERVATION_REJECTED_STATUS"
+msgstr "拒否"
+
+msgid "LBL_RESERVATION_CONFIRMED_STATUS"
+msgstr "確定済み"
+
+msgid "LBL_RESERVATION_REQUESTED_STATUS"
+msgstr "リクエスト済み"
+
+msgid "LBL_LINKING_CODE_ERROR"
+msgstr "入力したコードは無効です。デバイスの画面に表示されている6桁のコードを入力してください。"
+
+msgid "LBL_ALL_USERS_GROUP"
+msgstr "すべてのユーザー"
+
+msgid "LBL_ALLOWED"
+msgstr "許可"
+
+msgid "LBL_NOT_ALLOWED"
+msgstr "許可しない"
+
+msgid "LBL_BY_REQUEST"
+msgstr "リクエスト"
+
+msgid "LBL_BY_ADMINISTRATORS_ONLY"
+msgstr "管理者のみ"
+
+msgid "WARN_MSG_REMOVE_DEVICES_GROUP"
+msgstr "このコンテンツを削除しますか？これは1か所で使用されています。"
+
+msgid "STATE_IN_A_CALL"
+msgstr "通話中"
+
+msgid "STATE_MISSED_CALLS"
+msgstr "不在着信"
+
+msgid "STATE_OFFLINE"
+msgstr "オフライン"
+
+msgid "STATE_CONFIGURING"
+msgstr "構成中"
+
+msgid "STATE_UPGRADING"
+msgstr "アップグレード中"
+
+msgid "LBL_NONE_PROPERTY"
+msgstr "なし"
+
+msgid "INFO_MSG_DEVICE_GROUP_EXISTED"
+msgstr "その名前のデバイスグループは既に存在します。"
+
+msgid "INFO_MSG_USER_GROUP_EXISTED"
+msgstr "その名前のユーザーグループは既に存在します。"
+
+msgid "INFO_MSG_REMOVE_USER_FROM_ORG_SUCCESSFUL"
+msgstr "ユーザーが正常に削除されました。"
+
+msgid "INFO_MSG_INVITE_INVALID_EMAIL"
+msgstr "有効なメールアドレスを入力してください。"
+
+msgid "INFO_MOBILE_MSG_CREATE_API"
+msgstr ""
+
+msgid "LBL_100_ITEMS"
+msgstr "100件"
+
+msgid "LBL_10_ITEMS"
+msgstr "10件"
+
+msgid "LBL_SAML_USERS_GROUP"
+msgstr "SAMLユーザー"
+
+msgid "LBL_MENU_ADD_ADD_ORGANIZATION_USERS"
+msgstr "全組織ユーザーを追加"
+
+msgid "LBL_MENU_REMOVE_ALL_USERS"
+msgstr "すべてのユーザーを削除"
+
+msgid "LBL_DASHBOARD_TEXT"
+msgstr "のダッシュボード"
+
+msgid "SECT_WELCOME_TO_BEAM"
+msgstr ""
+"Beamにようこそ！\n"
+"Beamアカウントが正しく作成されました。右側のショートカットを確認し、利用を開始してください！"
+
+msgid "SECT_DOWNLOAD_AND_INSTALL"
+msgstr ""
+"Beamアプリのダウンロードとインストール\n"
+"これは、どのBeamデバイスを使用する場合も必須です。このアプリケーションをインストールして開くと、あなたが招待されたBeamデバイスのリストがすべて表示されます。"
+
+msgid "SECT_LINK_A_NEW_BEAM"
+msgstr ""
+"（所有している）新しいBeamをネットワークに接続する\n"
+"または、下の［新しいBeamを追加］リンクをいつでも使用できます。"
+
+msgid "LBL_SUCCESS_MESSAGE"
+msgstr "ヘルプメッセージリセットを非表示にしました。"
+
+msgid "INFO_MSG_REQUEST_RESERVATION_SUCCESSFUL"
+msgstr "リクエストが送信されました。"
+
+msgid "LST_MILESTONES"
+msgstr "招待済み,ログイン中,同意,接続済み,発信"
+
+msgid "CHK_NOTIFY_I_RESERVE_BEAMS"
+msgstr "自分がBeamを予約したとき"
+
+msgid "LBL_NAME_ON_CARD"
+msgstr "カードに記載されている氏名"
+
+msgid "LBL_SYSTEM"
+msgstr "システム"
+
+msgid "LBL_SERIAL_NUMBER"
+msgstr "シリアル番号"
+
+msgid "LBL_UID"
+msgstr "UID"
+
+msgid "LBL_SOFTWARE_VERSION"
+msgstr "ソフトウェアバージョン"
+
+msgid "LBL_LINKED_BY"
+msgstr "リンク実行者"
+
+msgid "LBL_LINKED_ON"
+msgstr "リンク先"
+
+msgid "LBL_NETWORK"
+msgstr "ネットワーク"
+
+msgid "LBL_FREQUENCY"
+msgstr "周波数"
+
+msgid "LBL_TYPE"
+msgstr "タイプ"
+
+msgid "LBL_IP_ADDRESS"
+msgstr "IPアドレス"
+
+msgid "LBL_BEAM_OFFLINE_STATUS"
+msgstr "オフライン"
+
+msgid "LBL_BEAM_AVAILABLE_STATUS"
+msgstr "使用可能"
+
+msgid "LBL_LAST_USED"
+msgstr "前回の使用日時"
+
+msgid "LBL_STATUS"
+msgstr "ステータス"
+
+msgid "LBL_MENU_GUEST_ONLY"
+msgstr "ゲストのみ"
+
+msgid "LBL_DISPLAY_URL_REQUEST"
+msgstr "URL接続の招待を表示"
+
+msgid "WARN_MSG_USER_DOES_NOT_HAVE_ACCESS_DEVICE"
+msgstr "このユーザーは、リクエストしたデバイスにアクセスできません。管理者はこの予約をアクセス可能にする前に、このユーザーをデバイスグループに追加するか、アクセス権を持つユーザーグループに追加する必要があります。"
+
+msgid "CONTENT_OF_TOOLTIP"
+msgstr ""
+"{}\n"
+"{}\n"
+"パイロット: {}\n"
+"開始: {}\n"
+"終了: {}\n"
+"期間: {}"

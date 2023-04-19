@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: fr_FR\n"
+
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid "MON01"
+msgstr "janvier"
+
+msgid "MON02"
+msgstr "février"
+
+msgid "MON03"
+msgstr "mars"
+
+msgid "MON04"
+msgstr "avril"
+
+msgid "MON05"
+msgstr "mai"
+
+msgid "MON06"
+msgstr "juin"
+
+msgid "MON07"
+msgstr "juillet"
+
+msgid "MON08"
+msgstr "août"
+
+msgid "MON09"
+msgstr "septembre"
+
+msgid "MON10"
+msgstr "octobre"
+
+msgid "MON11"
+msgstr "novembre"
+
+msgid "MON12"
+msgstr "décembre"
+
+msgid "Jan"
+msgstr "janv."
+
+msgid "Feb"
+msgstr "févr."
+
+msgid "Mar"
+msgstr "mars"
+
+msgid "Apr"
+msgstr "avr."
+
+msgid "May"
+msgstr "mai"
+
+msgid "Jun"
+msgstr "juin"
+
+msgid "Jul"
+msgstr "juil."
+
+msgid "Aug"
+msgstr "août"
+
+msgid "Sep"
+msgstr "sept."
+
+msgid "Sept"
+msgstr "sept."
+
+msgid "Oct"
+msgstr "oct."
+
+msgid "Nov"
+msgstr "nov."
+
+msgid "Dec"
+msgstr "déc."
+
+msgid "Mon"
+msgstr "Lun"
+
+msgid "Tue"
+msgstr "Mar"
+
+msgid "Wed"
+msgstr "Mer"
+
+msgid "Thu"
+msgstr "Jeu"
+
+msgid "Fri"
+msgstr "Ven"
+
+msgid "Sat"
+msgstr "Sam"
+
+msgid "Sun"
+msgstr "Dim"
+
+msgid "AM"
+msgstr "AM"
+
+msgid "PM"
+msgstr "PM"
+
+msgid "All day"
+msgstr "Toute la journée"
+
+msgid "every day"
+msgstr "tous les jours"
+
+msgid "a day"
+msgstr "un jour"
+
+msgid "days"
+msgstr "jours"
+
+msgid "an hour"
+msgstr "une heure"
+
+msgid "hours"
+msgstr "heures"
+
+msgid "a minute"
+msgstr "une minute"
+
+msgid "minutes"
+msgstr "minutes"
+
+msgid "a few seconds"
+msgstr "quelques secondes"

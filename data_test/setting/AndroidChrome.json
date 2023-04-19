@@ -1,0 +1,18 @@
+{
+	"browser" : "Chrome",
+	"browserVerion" : "60",
+	"platform" : "ANDROID",
+	"platformVersion" : "5.1.1",
+	"elementWaitTimeout" : 30,
+	"pageWaitTimeout" : 60,
+	"emailWaitTimeout" : 90,
+	"runLocally" : true,
+	"mobileEmulation" : {
+		"deviceMetrics": { "width": 412, "height": 604, "pixelRatio": 3.5 },
+        "userAgent": "Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LYZ28E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Mobile Safari/537.36"
+	},
+	"remoteSetting" : {
+		"remote_type" : "",
+		"hub_url" : ""
+	}
+}

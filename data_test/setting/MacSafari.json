@@ -1,0 +1,15 @@
+{
+	"browser" : "Safari",
+	"browserVerion" : "10",
+	"platform" : "MAC",
+	"platformVersion" : "10.12",
+	"elementWaitTimeout" : 30,
+	"pageWaitTimeout" : 60,
+	"emailWaitTimeout" : 60,
+	"runLocally" : true,
+	"remoteSetting" : {
+		"remote_type" : "",
+		"hub_url" : ""		
+	},
+	"mobileEmulation": {}
+}

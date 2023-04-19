@@ -1,0 +1,15 @@
+{
+	"browser" : "Chrome",
+	"browserVerion" : "65",
+	"platform" : "WINDOWS",
+	"platformVersion" : "7",
+	"elementWaitTimeout" : 30,
+	"pageWaitTimeout" : 60,
+	"emailWaitTimeout" : 90,
+	"runLocally" : true,
+	"remoteSetting" : {
+		"remote_type" : "SAUCELABS",
+		"hub_url" : "http://logigear04042017:8f498456-714f-4775-89b4-f9de86ee175e@ondemand.saucelabs.com:80/wd/hub"
+	},
+	"mobileEmulation": {}
+}

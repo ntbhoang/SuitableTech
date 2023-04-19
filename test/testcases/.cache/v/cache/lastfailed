@@ -1,0 +1,4 @@
+{
+  "mttest/mytest_test.py::AuthorizationSocialNetworkUser_Test::test_c11589_invite_new_user_not_currently_in_the_org_1_x": true,
+  "mttest/mytest_test.py::AuthorizationSocialNetworkUser_Test::test_c11594_invite_a_new_user_no_group_no_email_copy_1_x": true
+}

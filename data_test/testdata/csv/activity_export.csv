@@ -1,0 +1,4 @@
+Organization,Device,Group,Version,Start,Start Date,End,End Date,Duration Seconds,Duration,State,Pilot,Pilot Version
+LogiGear Test,QA BeamPlus Visitor1,,,1492655693,2017-04-19 19:34:53,1492658775,,3082,0:51:22,STATE_OFFLINE,,
+LogiGear Test,QA BeamPro © Visitor1,,,1492655391,2017-04-19 19:29:51,1492655455,2017-04-19 19:30:55,64,0:01:04,STATE_OFFLINE,,
+LogiGear Test,QA BeamPlus Visitor1,,,1492587049,2017-04-19 00:30:49,1492587092,2017-04-19 00:31:32,43,0:00:43,STATE_OFFLINE,,

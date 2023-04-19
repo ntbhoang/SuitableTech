@@ -1,0 +1,153 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2018-02-26 11:38+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.0.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Basepath: ../../../common\n"
+"X-Poedit-SearchPath-0: constant.py\n"
+
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid "MON01"
+msgstr "1月"
+
+msgid "MON02"
+msgstr "2月"
+
+msgid "MON03"
+msgstr "3月"
+
+msgid "MON04"
+msgstr "4月"
+
+msgid "MON05"
+msgstr "5月"
+
+msgid "MON06"
+msgstr "6月"
+
+msgid "MON07"
+msgstr "7月"
+
+msgid "MON08"
+msgstr "8月"
+
+msgid "MON09"
+msgstr "9月"
+
+msgid "MON10"
+msgstr "10月"
+
+msgid "MON11"
+msgstr "11月"
+
+msgid "MON12"
+msgstr "12月"
+
+msgid "Jan"
+msgstr "1月"
+
+msgid "Feb"
+msgstr "2月"
+
+msgid "Mar"
+msgstr "3月"
+
+msgid "Apr"
+msgstr "4月"
+
+msgid "May"
+msgstr "5月"
+
+msgid "Jun"
+msgstr "6月"
+
+msgid "Jul"
+msgstr "7月"
+
+msgid "Aug"
+msgstr "8月"
+
+msgid "Sep"
+msgstr "9月"
+
+msgid "Sept"
+msgstr "9月"
+
+msgid "Oct"
+msgstr "10月"
+
+msgid "Nov"
+msgstr "11月"
+
+msgid "Dec"
+msgstr "12月"
+
+msgid "Mon"
+msgstr "月"
+
+msgid "Tue"
+msgstr "火"
+
+msgid "Wed"
+msgstr "水"
+
+msgid "Thu"
+msgstr "木"
+
+msgid "Fri"
+msgstr "金"
+
+msgid "Sat"
+msgstr "土"
+
+msgid "Sun"
+msgstr "日"
+
+msgid "AM"
+msgstr "午前"
+
+msgid "PM"
+msgstr "午後"
+
+msgid "All day"
+msgstr "終日"
+
+msgid "every day"
+msgstr "毎日"
+
+msgid "a day"
+msgstr "1日"
+
+msgid "days"
+msgstr "日"
+
+msgid "an hour"
+msgstr "1時間"
+
+msgid "hours"
+msgstr "時間"
+
+msgid "a minute"
+msgstr "1分"
+
+msgid "minutes"
+msgstr "分"
+
+msgid "a few seconds"
+msgstr "数秒"

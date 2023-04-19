@@ -1,0 +1,32 @@
+{
+  "capabilities": [
+    {
+      "browserName": "firefox",
+	  "version": "44",
+	  "maxInstances": 10,
+      "platform": "WINDOWS"      
+    },
+    {
+      "browserName": "chrome",
+	  "version": "49",      
+	  "maxInstances": 10,
+      "platform": "WINDOWS",
+      "webdriver.chrome.driver": "C:\chromedriver_win32.exe"
+    },
+    {
+      "browserName": "internet explorer",
+	  "version": "11",
+      "maxInstances": 10,
+      "platform": "WINDOWS",
+      "webdriver.ie.driver": "C:\IEDriverServer.exe" 
+    }
+  ],
+  "configuration": {
+    "cleanUpCycle": 2000,
+    "timeout": 30000,
+    "register": true,
+	"hubHost": "192.168.171.127",
+    "hubPort": 8888,	
+    "maxSession": 50
+  }
+}

@@ -1,0 +1,2 @@
+title Start Windows Desktop Node
+java -jar \\lgvn13460\frameworks\drivers\selenium-server-standalone-2.53.0.jar -role node -nodeConfig \\lgvn13460\frameworks\drivers\StartWindowsDesktopNode.json -Dwebdriver.chrome.driver=C:\chromedriver_win32.exe -Dwebdriver.ie.driver=C:\IEDriverServer.exe

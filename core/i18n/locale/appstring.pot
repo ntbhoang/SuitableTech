@@ -1,0 +1,277 @@
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+
+# Application I18n data.
+# Copyright (C) 2016 Logigear Corp.
+# AUTHOR <ngocquang.tran@logigear.com>, 2016.
+#
+msgid "LBL_MANAGE_YOUR_BEAMS"
+msgstr "Manage Your Beams"
+
+msgid "LBL_DOWNLOAD_BEAM_SOFTWARE"
+msgstr "Download the Beam Software"
+
+msgid "LBL_DOWNLOAD_INSTALLER"
+msgstr "Download Installer"
+
+msgid "LBL_SETUP_NEW_BEAM"
+msgstr "Set Up a New Beam"
+
+msgid "LBL_VIEW_DOCUMENT"
+msgstr "View Documentation"
+
+msgid "LBL_DOCUMENTATION"
+msgstr "Documentation"
+
+msgid "LBL_GET_HELP"
+msgstr "Get Help"
+
+msgid "LBL_BEAM_HELP"
+msgstr "Beam Help Center"
+
+msgid "LBL_ALL_MEMBERS"
+msgstr "All Members"
+
+msgid "BEAM_SOFWARE_NAME"
+msgstr "Opening beam-stable-2.15.10-win32.exe"
+
+msgid "CHK_NOTIFY_REQUEST_ACCESS"
+msgstr "Notify administrators when someone requests access to this group"
+
+msgid "CHK_NOTIFY_ADMIN_IF_BEAM_LEFT_OFF_CHARGER"
+msgstr "Notify administrators if a Beam is left off the charger"
+
+msgid "CHK_NOTIFY_PILOT_IF_BEAM_LEFT_OFF_CHARGER"
+msgstr "Notify the last pilot if a Beam is left off the charger"
+
+msgid "CHK_NOTIFY_BECOME_AN_ADMIN"
+msgstr "I become an administrator"
+
+msgid "CHK_NOTIFY_ADDED_OR_REMOVED_FROM_DEVICE_GROUP"
+msgstr "I am added to or removed from a device group"
+
+msgid "CHK_NOTIFY_DEVICE_GROUPS_ARE_ADDED_REMOVED"
+msgstr "Device groups are added or removed"
+
+msgid "CHK_NOTIFY_DEVICE_GROUPS_SETTINGS_ARE_CHANGED"
+msgstr "Device group settings are changed"
+
+msgid "CHK_NOTIFY_I_CAN_CHANGE_DEVICE_SETTINGS_OR_ANSWER_CALLS"
+msgstr "I can change device settings or answer calls"
+
+msgid "LBL_DEVICE_GROUPS_PROPERTY"
+msgstr "Device Groups"
+
+msgid "LBL_LOCATION_NAME"
+msgstr "Name"
+
+msgid "LBL_LOCATION_PROPERTY"
+msgstr "Location"
+
+msgid "LBL_LABEL_PROPERTY"
+msgstr "Labels"
+
+msgid "LBL_GROUP_PROPERTY"
+msgstr "Group"
+
+msgid "LBL_TIMEZONE_PROPERTY"
+msgstr "Time Zone"
+
+msgid "LBL_ADMIN_USERS_SECTION_USERS"
+msgstr "Users"
+
+msgid "LBL_ACCOUNT_SETTINGS_PAGE_HEADER"
+msgstr "Account Settings"
+
+msgid "LBL_ACCOUNT_NOTIFICATIONS_PAGE_HEADER"
+msgstr "Notifications"
+
+msgid "LBL_ORG_SETTINGS_PAGE_HEADER"
+msgstr "Organization Settings"
+
+msgid "LBL_APPROVED_REQUEST_ACCESS_BEAM_HEADER"
+msgstr "Approved"
+
+msgid "LBL_REJECTED_REQUEST_ACCESS_BEAM_HEADER"
+msgstr "Rejected"
+
+msgid "LBL_ERROR_REQUEST_ACCESS_BEAM_HEADER"
+msgstr "Rejected"
+
+msgid "LBL_BEAMS_ACCESS_TIMES_TEMPORARY_USERS"
+msgstr "Temporary Users"
+
+msgid "LBL_BEAMS_DEVICES_PAGE_HEADER"
+msgstr "Devices in"
+
+msgid "LBL_BEAMS_MEMBERS_USERS"
+msgstr "Users"
+
+msgid "LBL_BEAMS_MEMBERS_USER_GROUPS"
+msgstr "User Groups"
+
+msgid "LBL_BEAMS_MEMBERS_REMOVE_USER"
+msgstr "Remove"
+
+msgid "LBL_PLAY_VIDEO_CONTINUE"
+msgstr "Continue"
+
+msgid "LBL_CONFIRM_NEW_AUTH_METHOD"
+msgstr "Confirm New Authentication Method"
+
+msgid "LBL_DISCONNECT_SUCCESSFUL"
+msgstr "Disconnect Successful"
+
+msgid "LBL_YES"
+msgstr "Yes"
+
+msgid "LBL_NO"
+msgstr "No"
+
+msgid "LBL_DELETE"
+msgstr "Delete"
+
+msgid "INFO_MSG_CREATE_DEVICE_GROUP_SUCCESSFUL"
+msgstr "The device group was successfully created."
+
+msgid "INFO_MSG_SAVE_DEVICE_GROUP_SETTING_SUCCESSFUL"
+msgstr "Device group settings were saved successfully."
+
+msgid "INFO_MSG_EDIT_USER_SUCCESS"
+msgstr "The user was successfully saved."
+
+msgid "INFO_MSG_SET_DEVICE_GROUP_SUCCESSFUL"
+msgstr "The device was saved successfully."
+
+msgid "INFO_MSG_DELETE_USER_GROUP_SUCCESSFUL"
+msgstr "The group was successfully deleted."
+
+msgid "INFO_MSG_INVITE_USER_TO_SIMPL_BEAM_SUCCESSFUL"
+msgstr "{} was added to {}."
+
+msgid "INFO_INVITATION_MAIL_SENT_SUCCESSFUL"
+msgstr "The invitation to {} was successfully sent."
+
+msgid "INFO_MSG_NEW_API_NOTICE"
+msgstr "Your new API Key is:"
+
+msgid "INFO_MSG_NEW_API_NOTICE_2"
+msgstr ""
+
+msgid "WARN_MSG_CHANGE_DEVICE_GROUP_NAME"
+msgstr "Warning! If you move this device to a different group, members of this group will no longer be able to access it."
+
+msgid "WARN_MSG_REMOVE_USER_GROUP"
+msgstr "Are you sure you want to remove this user group from the '{}' device group?"
+
+msgid "DELETE_USER_FROM_DEVICE_GROUP"
+msgstr "Are you sure you want to remove this member from the '{}' device group?"
+
+msgid "INFO_MSG_CREATE_USER_GROUP_SUCCESSFUL"
+msgstr "User group created successfully."
+
+msgid "LBL_DEVICE_GROUPS"
+msgstr "Device Groups"
+
+msgid "LBL_USER_GROUPS"
+msgstr "User Groups"
+
+msgid "LBL_ADMINISTERS_GROUPS"
+msgstr "Administers Groups"
+
+msgid "LBL_ADMINISTRATOR"
+msgstr "Administrator"
+
+msgid "LBL_MENU_ADMINISTRATOR_ONLY"
+msgstr "Administrators Only"
+
+msgid "LBL_MENU_USER_GROUPS"
+msgstr "User Groups"
+
+msgid "LBL_MENU_TEMPORARY_USERS"
+msgstr "Temporary Users"
+
+msgid "TXTF_CONFIRM_ASSOCIATION_WARNING_MESSAGE"
+msgstr "WARNING: Only one authentication method is allowed per account. Your account is currently authenticated with a Suitable Technologies username and password. Continuing will cause your account to be authenticated via Google.\nOnce you change your authentication method to Google, you will no longer be able to login to the website or Beam client using your Suitable Technologies username and password. You will need to click \"Sign in with Google\" from now on. You must also have an up-to-date version of the client.\nDo you really want to change your authentication method to Google?\nYes No"
+
+msgid "LBL_IMAGE_CROP_TRACKER"
+msgstr "Select the area you would like to use"
+
+msgid "LBL_ACCESS_REQUEST_RECORD_MESSAGE"
+msgstr "{}{}requests to be added to group \"{}\"."
+
+msgid "LBL_APPROVED_NOTIFICATION_MESSAGE"
+msgstr ""
+
+msgid "LBL_REJECTED_NOTIFICATION_MESSAGE"
+msgstr ""
+
+msgid "LBL_DATETIME_MERIDIAN_AM"
+msgstr "AM"
+
+msgid "LBL_DATETIME_MERIDIAN_PM"
+msgstr "PM"
+
+msgid "LBL_DEV_ATTR_SETTINGS"
+msgstr ""
+
+msgid "LBL_DEV_ATTR_INFORMATION"
+msgstr ""
+
+msgid "LBL_DEV_ATTR_SECTION_SYSTEM"
+msgstr ""
+
+msgid "LBL_DEV_ATTR_SYSTEM_SERIAL_NUMBER"
+msgstr ""
+
+msgid "LBL_DEV_ATTR_SYSTEM_UID"
+msgstr ""
+
+msgid "LBL_DEV_ATTR_SYSTEM_SOFTWARE_VERSION"
+msgstr ""
+
+msgid "LBL_DEV_ATTR_SECTION_NETWORK"
+msgstr ""
+
+msgid "LBL_DEV_ATTR_NETWORK_CURRENT_WIFI_NETWORK"
+msgstr ""
+
+msgid "LBL_DEV_ATTR_NETWORK_SSID"
+msgstr ""
+
+msgid "LBL_DEV_ATTR_NETWORK_FREQUENCY"
+msgstr ""
+
+msgid "LBL_DEV_ATTR_NETWORK_INTERFACE_TYPE"
+msgstr ""
+
+msgid "LBL_DEV_ATTR_NETWORK_MAC"
+msgstr ""
+
+msgid "LBL_DEV_ATTR_NETWORK_IP_ADDR"
+msgstr ""
+
+msgid "LBL_DEV_ATTR_NETWORK_RELAY_SERVER"
+msgstr ""
+
+msgid "CHK_ALL_AUTHENTICATION_METHODS"
+msgstr ""
+
+msgid "LBL_WELCOME_TO_BEAM_EMAIL_TITLE"
+msgstr ""
+
+msgid "LBL_WELCOME_TEMPORARY_USER_EMAIL_TITLE"
+msgstr "You've been invited to Beam into"
+
+msgid "LBL_BEAM_ALL_AUTHENTICATION_METHODS"
+msgstr ""
+
+msgid "LBL_IMPORT_CONTACT_ERROR_MESSAGE"
+msgstr ""
